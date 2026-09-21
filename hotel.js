@@ -1,4 +1,4 @@
-const Reserva = require("./reserva.js");
+const Reserva = require("./Reserva.js");
 class Hotel {
     #nome
     #quartos

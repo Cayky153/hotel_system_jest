@@ -1,5 +1,5 @@
-const Hotel = require("../hotel");
-const Reserva = require("../reserva");
+const Hotel = require("../Hotel");
+const Reserva = require("../Reserva");
 
 
 const listaPessoas = [{nome: "Cayky", documento: 20}, 
